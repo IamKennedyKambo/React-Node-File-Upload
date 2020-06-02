@@ -1,0 +1,26 @@
+{
+  "name": "React-Node-File-Upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IamKennedyKambo/React-Node-File-Upload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IamKennedyKambo/React-Node-File-Upload/issues"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "multer": "^1.4.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7"
+  },
+  "homepage": "https://github.com/IamKennedyKambo/React-Node-File-Upload#readme"
+}
